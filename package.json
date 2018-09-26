@@ -1,0 +1,23 @@
+{
+  "name": "text-to-speech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asonni/type_n_speak.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asonni/type_n_speak/issues"
+  },
+  "homepage": "https://github.com/asonni/type_n_speak#readme",
+  "dependencies": {
+    "gh-pages": "^2.0.0"
+  }
+}
